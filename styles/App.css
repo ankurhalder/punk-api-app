@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.beer-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h1 {
+  margin: 20px 0;
+}

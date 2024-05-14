@@ -1,0 +1,22 @@
+.beer-card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+}
+
+.beer-card img {
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.beer-card h2 {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.beer-card p {
+  margin: 5px 0;
+}
